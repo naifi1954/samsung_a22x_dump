@@ -1,0 +1,20 @@
+## a22xnsxx-user 13 TP1A.220624.014 A226BXXSBDZC3 release-keys
+- Manufacturer: samsung
+- Platform: mt6833
+- Codename: a22x
+- Brand: samsung
+- Flavor: a22xnsxx-user
+- Release Version: 13
+- Kernel Version: 4.14.186
+- Id: TP1A.220624.014
+- Incremental: A226BXXSBDZC3
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 450
+- Fingerprint: samsung/a22xnsxx/a22x:12/SP1A.210812.016/A226BXXSBDZC3:user/release-keys
+- OTA version: 
+- Branch: a22xnsxx-user-13-TP1A.220624.014-A226BXXSBDZC3-release-keys
+- Repo: samsung_a22x_dump
